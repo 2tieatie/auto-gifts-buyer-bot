@@ -1,7 +1,5 @@
 # Auto Gifts Buyer Bot
 
-![App Demo](PLACEHOLDER_FOR_GIF_HERE)
-
 ## 📌 Project Overview
 
 This project is a comprehensive solution designed to purchase Telegram Stars and Premium subscriptions at rates cheaper than the built-in Telegram app offers, utilizing the Fragment API. Additionally, it features a specialized autonomous script capable of monitoring and purchasing unique, limited-edition Telegram gifts as soon as they become available.
